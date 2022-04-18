@@ -1,5 +1,8 @@
 # SVM
 
+https://vaibhavi1402.github.io/SVM/
+
+
 1) Prepare a classification model using SVM for salary data 
 
 Data Description:
